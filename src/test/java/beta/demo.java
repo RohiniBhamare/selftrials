@@ -21,5 +21,6 @@ public class demo extends base {
 		log.fatal("i am fatal");
 		log.debug("I am debug");
 		log.info("i am infor");
+		System.out.println("Its my first commit");
 	}
 }
